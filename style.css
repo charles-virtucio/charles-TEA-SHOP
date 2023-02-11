@@ -3,9 +3,7 @@ h1, h2, p{
 }
 
 body{
-    /* background-color:rgb(228, 202, 168); */
-    /* background-image:url('https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/rodrigoBonzerrLopez-tea-icon.png?raw=true'); */
-    background-image:url('https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-nikolay-osmachko-230477.jpg?raw=true');
+    background-image:url('https://media.istockphoto.com/id/1220101964/photo/pouring-coffee-with-smoke-on-a-cup-and-coffee-beans-on-burlap-sack-on-black-background.jpg?s=612x612&w=0&k=20&c=uR1oUz1TyGj9cjmXM-kwsPCLwCFznEyvqs1yqS8fGvI=');
     background-size:cover;
     background-repeat:no-repeat;
 }
