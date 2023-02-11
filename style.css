@@ -82,16 +82,16 @@ footer{
 }
 
 a:link {
-    color: rgba(0, 0, 0, 0);
+    color: rgba(19, 6, 6, 0.895);
 }
 
 /*lvha*/
 a:visited{
-    color:rgba(16, 17, 2, 0.126);
+    color:rgb(16, 17, 2);
 }
 
 a:hover{
-    color: lightgrey;
+    color: rgba(144, 248, 182, 0.879);
 }
 
 a:active{
