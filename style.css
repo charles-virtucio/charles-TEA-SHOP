@@ -19,6 +19,15 @@ h2{
     font-size: 35px;
 }
 
+.top-line,.bottom-line{
+    height: 2px;
+    background-color: rgba(228, 202, 168, 0.904);
+    border-color: rgb(66, 63, 60);
+    box-shadow: -0px 4px 15px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -0px 4px 15px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -0px 9px 15px 0px rgba(0,0,0,0.75);
+}
+
 .tea-menu{
     width: 80%;
     max-width: 500px;
