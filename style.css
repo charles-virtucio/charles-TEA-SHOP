@@ -18,18 +18,17 @@ h1, h2, p{
     margin-right: auto;
 }
 
-.tea-items{
-    background-color:orangered;
+.tea-items p{
     display: inline-block;
 }
 
-.tea-flavor{
+.tea-flavor, .collections-flavor{
     width: 75%;
     background-color:green;
     text-align: left;
 }
 
-.tea-price{
+.tea-price, .collections-price {
     width: 25%;
     background-color:yellow;
     text-align: right;
