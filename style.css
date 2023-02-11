@@ -4,7 +4,8 @@ body{
     background-image:url('https://media.istockphoto.com/id/1220101964/photo/pouring-coffee-with-smoke-on-a-cup-and-coffee-beans-on-burlap-sack-on-black-background.jpg?s=612x612&w=0&k=20&c=uR1oUz1TyGj9cjmXM-kwsPCLwCFznEyvqs1yqS8fGvI=');
     background-size:cover;
     background-repeat:no-repeat;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Italic', sans-serif;
+    padding: 20px;
 }
 
 h1, h2, p{
@@ -26,6 +27,14 @@ h2{
     box-shadow: -0px 4px 15px 0px rgba(0,0,0,0.75);
 -webkit-box-shadow: -0px 4px 15px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: -0px 9px 15px 0px rgba(0,0,0,0.75);
+}
+
+.top-line{
+    margin-top: 25px;
+}
+
+.bottom-line{
+    margin-top: 25px;
 }
 
 .tea-menu{
@@ -54,4 +63,8 @@ h2{
 .tea-price, .collections-price {
     width: 25%;
     text-align: right;
+}
+
+footer{
+    font-size: 14px;
 }
