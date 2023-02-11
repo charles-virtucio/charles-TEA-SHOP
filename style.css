@@ -1,17 +1,19 @@
-h1, h2, p{
-    text-align:center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body{
     background-image:url('https://media.istockphoto.com/id/1220101964/photo/pouring-coffee-with-smoke-on-a-cup-and-coffee-beans-on-burlap-sack-on-black-background.jpg?s=612x612&w=0&k=20&c=uR1oUz1TyGj9cjmXM-kwsPCLwCFznEyvqs1yqS8fGvI=');
     background-size:cover;
     background-repeat:no-repeat;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, p{
+    text-align:center;
 }
 
 .tea-menu{
     width: 80%;
     background-color: rgb(228, 202, 168);
-    /* background-color: orangered; */
     margin-left:auto;
     margin-right: auto;
 }
@@ -22,9 +24,13 @@ body{
 }
 
 .tea-flavor{
+    width: 75%;
+    background-color:green;
     text-align: left;
 }
 
 .tea-price{
+    width: 25%;
+    background-color:yellow;
     text-align: right;
 }
