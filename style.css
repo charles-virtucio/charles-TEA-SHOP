@@ -68,3 +68,20 @@ h2{
 footer{
     font-size: 14px;
 }
+
+a:link {
+    color: black;
+}
+
+/*lvha*/
+a:visited{
+    color:white;
+}
+
+a:hover{
+    color: lightgrey;
+}
+
+a:active{
+    color: yellow;
+}
