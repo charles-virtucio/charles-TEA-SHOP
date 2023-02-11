@@ -11,6 +11,14 @@ h1, h2, p{
     text-align:center;
 }
 
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 35px;
+}
+
 .tea-menu{
     width: 80%;
     max-width: 500px;
@@ -20,18 +28,21 @@ h1, h2, p{
     padding: 20px;
 }
 
+.established{
+    font-style:italic;
+}
+
 .tea-items p{
     display: inline-block;
+    font-weight: 400;
 }
 
 .tea-flavor, .collections-flavor{
     width: 75%;
-    background-color:green;
     text-align: left;
 }
 
 .tea-price, .collections-price {
     width: 25%;
-    background-color:yellow;
     text-align: right;
 }
